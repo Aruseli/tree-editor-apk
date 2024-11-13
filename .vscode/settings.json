@@ -1,0 +1,9 @@
+{
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#05342C",
+    "titleBar.activeBackground": "#07493D",
+    "titleBar.activeForeground": "#ECFDFA"
+  }
+}

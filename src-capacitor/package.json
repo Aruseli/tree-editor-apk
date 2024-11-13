@@ -1,0 +1,12 @@
+{
+  "name": "tree-editor",
+  "version": "0.0.1",
+  "description": "Tree Editor Demo",
+  "author": "Aruseli <llingveri@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/app": "^6.0.0",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0"
+  }
+}
